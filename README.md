@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Karabo Matsebe
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Developer;ALX+Software+Engineering+Student;Beginner+Frontend+Skills+%5BHTML+%26+CSS%5D;Learning+APIs+%26+Databases;Growing+One+Project+at+a+Time)](https://git.io/typing-svg)
 
 💡 *BackEnd Development Student at ALX | Beginner Dev | Passionate about clean code & problem-solving*  
 
