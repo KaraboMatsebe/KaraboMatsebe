@@ -2,6 +2,8 @@
 
 
 💡 *BackEnd Development Student at ALX | Beginner Dev | Passionate about clean code & problem-solving*  
+---
+## About me
 
 I’m currently on a journey to become a backend developer through the **ALX Software Engineering Program**. While I’m just starting out, I’ve been building my foundation with **HTML** and **CSS**, and I’m excited to dive deeper into backend technologies.  
 
